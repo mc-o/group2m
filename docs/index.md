@@ -14,6 +14,8 @@ date-meta: 20 March 2023
 
 ## 📝 Project Description
 
+This porject will be about crime prediction by using graph neural networks.
+
 ## 📊 Data
 
 ## 📈 Analysis
